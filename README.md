@@ -1,4 +1,4 @@
-![logo width="400"](https://github.com/dhiru7890/Dherendra-Tiwari/blob/main/ban.png)
+![logo width="400"](https://github.com/dhiru7890/Dherendra-Tiwari/blob/main/ban.png) 
 
 <h1 align="center">Hi 👋, I'm Dherendra Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
